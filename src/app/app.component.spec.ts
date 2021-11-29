@@ -3,6 +3,6 @@ import { RouterTestingModule } from '@angular/router/testing';
 import { AppComponent } from './app.component';
 describe('AppComponent', () => {
     it('test my first test', async()=> {
-        expect(1).toEqual(2);
+        expect(1).toEqual(1);
     });
 });
